@@ -1,0 +1,21 @@
+{
+    "name": "mrcthms-2021-dark",
+    "displayName": "mrcthms-2021-dark",
+    "description": "Dark theme for personal use",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "mrcthms-2021-dark",
+                "uiTheme": "vs",
+                "path": "./themes/mrcthms-2021-dark-color-theme.json"
+            }
+        ]
+    }
+}

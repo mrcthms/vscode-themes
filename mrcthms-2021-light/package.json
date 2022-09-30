@@ -1,0 +1,21 @@
+{
+    "name": "mrcthms-2021-light",
+    "displayName": "mrcthms-2021-light",
+    "description": "Light theme for personal use",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "mrcthms-2021-light",
+                "uiTheme": "vs",
+                "path": "./themes/mrcthms-2021-light-color-theme.json"
+            }
+        ]
+    }
+}
